@@ -33,4 +33,4 @@ Deberás crear un **álbum fotográfico** construido con [Bootstrap](http://getb
 - Al finalizar, guarda los cambios y súbelos a **Github**.
 - Luego debes enviar los cambios (vía push) y subir el link del repositorio a la sección correspondiente en la [Plataforma Empieza](https://empieza.desafiolatam.com "Desafío Latam").
 
-Mucha suerte!
+Mucha suerte!# galeria
