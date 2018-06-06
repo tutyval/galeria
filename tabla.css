@@ -8,3 +8,21 @@
 .boton {
 	text-align: center;
 	}
+.card {
+	border: solid 10px;
+	border-color: #cccccc;
+	margin-top: 10px;
+	border-radius: 5%;
+	text-align: center;
+}
+.pie {
+	margin-top: 20px;
+	border:solid;
+	border-color: #cccccc;
+	text-align: center;	
+}
+.pag {
+	border:solid;
+	border-color: #cccccc;
+	background-color: #e5e5e5;
+}
